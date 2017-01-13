@@ -5,4 +5,4 @@ Les Développeurs professionnels sont:
 
 - Ahmet (103)
 - Tom (101)
-- vladimir (102)
+- Vladimir (102)
